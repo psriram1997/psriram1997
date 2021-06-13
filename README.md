@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @psriram1997
+- 👀 I’m interested in Spring and React
+- 🌱 I’m currently learning Spring Boot
+- 💞️ I’m looking to collaborate on Spring & React projects
+- 📫 You can reach me through psriram1997@gmail.com
